@@ -109,3 +109,9 @@ Il prend de la place dans l'espace et il est très facile de voir les panneaux D
 ## Appréciation et commentaire personnel
 
 J'ai choisi cette œuvre, car elle utilise différents médiums multimédias, dont les visuels 2D et les sons. C'est une œuvre interactive qui regroupe plusieurs individus ensemble et donc qui amène des inconnus à engager ensemble et à transformer cette œuvre. Je trouve que cette œuvre est inspirante pour la réalisation de projet multimédia à grande échelle.
+
+##### Sources
+- [Iregular](https://iregular.io/fr/work/control-no-control/)
+- [Stereolux](https://www.stereolux.org/agenda/daniel-iregui-control-no-control)
+- [Art Public Montreal](https://artpublicmontreal.ca/en/artiste/daniel-iregui/)
+- [Connecting Cities](https://www.connectingcities.net/project/control-no-control)
