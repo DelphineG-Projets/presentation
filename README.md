@@ -89,7 +89,7 @@ X-Agora
 - Capteurs de mouvements IR
 - 1x Ordinateur Mac Mini
 - Commutateur Réseau
-![Devis technique]([https://iregular.io/app/uploads/2020/11/CNC_madrid_04.1-copy.jpg](https://ibb.co/P5Lf5xf))
+![Devis technique](https://i.ibb.co/kh7WhKW/image-1.png)
 
 ### Processus de création :
 
