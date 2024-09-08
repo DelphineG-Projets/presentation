@@ -52,6 +52,8 @@ Regrouper des individus de différentes cultures ensemble et leur permettre d'in
 CONTROL NO CONTROL est une installation interactive en forme d'un cube, qui amène l'interacteur à utiliser leurs mains et à toucher aux écrans DEL. Au toucher, des visuels et sons modifient ce qui est affiché sur l'écran. Au total, 48 individus peuvent interagir avec le cube en même temps. Les visuels sont des motifs géométriques.
 
 ![Cube CONTROL NO CONTROL](https://iregular.io/app/uploads/2020/11/CNC_Nantes_01_1800.jpg)
+![Cube CONTROL NO CONTROL](https://iregular.io/app/uploads/2020/11/Nordic-Lights-Photo-by-Brian-Medina-21_AS-edit_LowRes.jpg)
+![Cube CONTROL NO CONTROL](https://iregular.io/app/uploads/2020/11/CNC_madrid_04.1-copy.jpg)
 [Vidéo de l'œuvre](https://vimeo.com/789038653)
 
 ### Objectifs de l'œuvre
@@ -87,7 +89,7 @@ X-Agora
 - Capteurs de mouvements IR
 - 1x Ordinateur Mac Mini
 - Commutateur Réseau
-  
+![Devis technique]([https://iregular.io/app/uploads/2020/11/CNC_madrid_04.1-copy.jpg](https://ibb.co/P5Lf5xf))
 
 ### Processus de création :
 
