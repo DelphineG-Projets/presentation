@@ -15,9 +15,8 @@ Iregular
 - Nantes Digital Week
 - Nantes Métropole
 - Stereolux / Scopitone
-- 
+   
 ## Date de création et de présentation
-### Date de création : 2011
 
 ### Date et lieu de la première présentation : 13 au 29 janvier 2011 - Igloofest - Montréal, CA
 
@@ -63,6 +62,7 @@ CONTROL NO CONTROL est une installation interactive en forme d'un cube, qui amè
 	de l’œuvre.*"
 	Source : [Site web d'Iregular](https://iregular.io/work/control-no-control/)
 	>
+
 L’installation permet de percevoir comment nos actions peuvent modifier l'espace qui nous entoure et comment les autres individus réagissent à ces changements.
 
 ### Public cible :
@@ -94,17 +94,17 @@ X-Agora
 
 ### Processus de création :
 
-Créé pour Igloofest en 2011, l'artiste réfléchit toujours au développement de ses œuvres interactives et numériques dans l'objectif d'impliquer le public dans des œuvres d'art qui évolue tout le temps. Il cherche toujours à créer une interaction entre l'être humain et la technologie. Cette œuvre a été réfléchie de la même façon.
+Créé pour Igloofest en 2011, l'artiste réfléchit toujours au développement de ses œuvres interactives et numériques dans l'objectif d'impliquer le public dans des œuvres d'art qui évolue tout le temps.
 
 ## Composante centrale à l'œuvre et son fonctionnement
 
 ### Composante centrale :
 
-L'élément clé qui caractérise l'œuvre est sa forme, à la fois simple, mais qui prend beaucoup de place dans l'espace. Les panneaux DEL et capteurs de mouvements sur chacune des surfaces de cette forme cubique sont au cœur de l'œuvre.
+L'élément clé qui caractérise l'œuvre est sa forme, à la fois simple, mais qui prend beaucoup de place dans l'espace.
 
 ### Fonctionnement :
 
-La composante centrale permet à plusieurs personnes d'interagir avec l'œuvre en même temps, ce qui est important lorsque celle-ci est présentée dans les lieux publics et des festivals. Les gens peuvent se rassembler autour de celle-ci, donc ça rend le tout très facile de tester comment l'œuvre fonctionne et encourage tout le monde à l'essayer.
+La composante centrale permet à plusieurs personnes d'interagir avec l'œuvre en même temps, ce qui est important lorsque celle-ci est présentée dans les lieux publics et des festivals.
 
 
 ### Impact :
@@ -112,7 +112,7 @@ Il prend de la place dans l'espace et il est très facile de voir les panneaux D
 
 ## Appréciation et commentaire personnel
 
-J'ai choisi cette œuvre, car elle utilise différents médiums multimédias, dont les visuels 2D et les sons. C'est une œuvre interactive qui regroupe plusieurs individus ensemble et donc qui amène des inconnus à engager ensemble et à transformer cette œuvre. Je trouve que cette œuvre est inspirante pour la réalisation de projet multimédia à grande échelle.
+J'ai choisi cette œuvre, car elle utilise différents médiums multimédias, dont les visuels 2D et les sons. C'est une œuvre interactive qui regroupe plusieurs individus ensemble. Je trouve que cette œuvre est inspirante pour la réalisation de projet multimédia à grande échelle.
 
 ##### Sources
 - [Iregular](https://iregular.io/fr/work/control-no-control/)
