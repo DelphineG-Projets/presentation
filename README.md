@@ -1,5 +1,5 @@
 
-# Control No Control d'Iregular
+# Control No Control
 ## L'équipe
 ### Nom de l'artiste : Daniel Iregui
 
