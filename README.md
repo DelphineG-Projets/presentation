@@ -1,5 +1,6 @@
 
 # Control No Control
+![Cube CONTROL NO CONTROL](https://iregular.io/app/uploads/2020/11/CNC_Nantes_01_1800.jpg)
 ## L'équipe
 ### Nom de l'artiste : Daniel Iregui
 
@@ -43,9 +44,7 @@ Regrouper des individus de différentes cultures ensemble et leur permettre d'in
 ### Description générale
 CONTROL NO CONTROL est une installation interactive en forme d'un cube, qui amène jusqu'à 48 individus à utiliser leurs mains et à toucher aux écrans. Au toucher, des visuels géométriques et sons se modifient.
 
-![Cube CONTROL NO CONTROL](https://iregular.io/app/uploads/2020/11/CNC_Nantes_01_1800.jpg)
 ![Cube CONTROL NO CONTROL](https://iregular.io/app/uploads/2020/11/Nordic-Lights-Photo-by-Brian-Medina-21_AS-edit_LowRes.jpg)
-![Cube CONTROL NO CONTROL](https://iregular.io/app/uploads/2020/11/CNC_madrid_04.1-copy.jpg)
 [Vidéo de l'œuvre](https://vimeo.com/789038653)
 
 ### Objectifs de l'œuvre
@@ -93,10 +92,9 @@ Sa forme, à la fois simple, mais qui prend beaucoup de place dans l'espace.
 ### Fonctionnement
 La composante centrale permet à plusieurs personnes d'interagir avec l'œuvre en même temps, ce qui est important lorsque elle est présentée dans les lieux publics et des festivals.
 
-
 ### Impact
 Il prend de la place dans l'espace et il est très facile de voir les panneaux DEL de loin en plus d'entendre le sons qui sort des haut-parleurs. 
-
+![Cube CONTROL NO CONTROL](https://iregular.io/app/uploads/2020/11/CNC_madrid_04.1-copy.jpg)
 ## Appréciation et commentaire personnel
 J'ai choisi cette œuvre, car elle utilise différents médiums multimédias. C'est une œuvre interactive qui regroupe plusieurs individus ensemble. Je trouve que cette œuvre est inspirante pour la réalisation de projet multimédia à grande échelle.
 
