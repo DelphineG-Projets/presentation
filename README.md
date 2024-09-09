@@ -75,7 +75,7 @@ Les personnes de tous âges qui visitent les différentes expositions/festivals.
 - Souris et clavier
 
 #### Composantes fournies par l'artiste
-- Capteurs de mouvements IR
+- Capteurs IR
 - 1x Ordinateur Mac Mini
 - Commutateur Réseau
 
