@@ -48,7 +48,7 @@ Regrouper des individus de différentes cultures ensemble et leur permettre d'in
 ## Qu'est-ce que l'œuvre?
 ### Description générale :
 
-CONTROL NO CONTROL est une installation interactive en forme d'un cube, qui amène l'interacteur à utiliser leurs mains et à toucher aux écrans DEL. Au toucher, des visuels et sons modifient ce qui est affiché sur l'écran. Au total, 48 individus peuvent interagir avec le cube en même temps. Les visuels sont des motifs géométriques.
+CONTROL NO CONTROL est une installation interactive en forme d'un cube, qui amène jusqu'à 48 individus à utiliser leurs mains et à toucher aux écrans. Au toucher, des visuels géométriques et sons se modifient.
 
 ![Cube CONTROL NO CONTROL](https://iregular.io/app/uploads/2020/11/CNC_Nantes_01_1800.jpg)
 ![Cube CONTROL NO CONTROL](https://iregular.io/app/uploads/2020/11/Nordic-Lights-Photo-by-Brian-Medina-21_AS-edit_LowRes.jpg)
@@ -100,11 +100,11 @@ Créé pour Igloofest en 2011, l'artiste réfléchit toujours au développement 
 
 ### Composante centrale :
 
-L'élément clé qui caractérise l'œuvre est sa forme, à la fois simple, mais qui prend beaucoup de place dans l'espace.
+Sa forme, à la fois simple, mais qui prend beaucoup de place dans l'espace.
 
 ### Fonctionnement :
 
-La composante centrale permet à plusieurs personnes d'interagir avec l'œuvre en même temps, ce qui est important lorsque celle-ci est présentée dans les lieux publics et des festivals.
+La composante centrale permet à plusieurs personnes d'interagir avec l'œuvre en même temps, ce qui est important lorsque elle est présentée dans les lieux publics et des festivals.
 
 
 ### Impact :
@@ -112,7 +112,7 @@ Il prend de la place dans l'espace et il est très facile de voir les panneaux D
 
 ## Appréciation et commentaire personnel
 
-J'ai choisi cette œuvre, car elle utilise différents médiums multimédias, dont les visuels 2D et les sons. C'est une œuvre interactive qui regroupe plusieurs individus ensemble. Je trouve que cette œuvre est inspirante pour la réalisation de projet multimédia à grande échelle.
+J'ai choisi cette œuvre, car elle utilise différents médiums multimédias. C'est une œuvre interactive qui regroupe plusieurs individus ensemble. Je trouve que cette œuvre est inspirante pour la réalisation de projet multimédia à grande échelle.
 
 ##### Sources
 - [Iregular](https://iregular.io/fr/work/control-no-control/)
